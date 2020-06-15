@@ -1,0 +1,25 @@
+{
+  "name": "material-kit-react",
+  "homepage": "https://creatosapce.com",
+  "authors": [
+    "creatospace"
+  ],
+  "description": "A Badass Material-UI Kit based on Material Design",
+  "main": "dist/index.js",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "google",
+    "twitter"
+  ],
+  "license": "Creatospace",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "private": true
+}
